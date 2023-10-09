@@ -1,0 +1,7 @@
+name: BoatPlugin
+version: 1.0
+main: BoatPlugin
+commands:
+  link:
+    description: Link one sign with another
+    usage: /<command> integer
